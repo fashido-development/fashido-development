@@ -1,6 +1,6 @@
 <!-- README.md for @fashido -->
 
-<h1 align="center">Hey there, I'm <a href="https://github.com/fashido">fashido</a>.</h1>
+<h1 align="center">Hey there, I'm <a href="https://github.com/fashido-development">fashido</a>.</h1>
 <h3 align="center">🤖 Discord Bot Developer | 💻 JavaScript & Luau Enthusiast</h3>
 
 ---
